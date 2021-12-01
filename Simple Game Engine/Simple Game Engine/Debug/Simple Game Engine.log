@@ -1,0 +1,28 @@
+﻿  Bob.cpp
+  Draw.cpp
+d:\program files (x86)\microsoft visual studio stuff\projects\simple game engine\simple game engine\engine.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Engine.cpp
+d:\program files (x86)\microsoft visual studio stuff\projects\simple game engine\simple game engine\engine.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\program files (x86)\microsoft visual studio stuff\projects\simple game engine\simple game engine\engine.cpp(8): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\program files (x86)\microsoft visual studio stuff\projects\simple game engine\simple game engine\engine.cpp(9): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\program files (x86)\microsoft visual studio stuff\projects\simple game engine\simple game engine\engine.cpp(11): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Input.cpp
+d:\program files (x86)\microsoft visual studio stuff\projects\simple game engine\simple game engine\engine.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Main.cpp
+d:\program files (x86)\microsoft visual studio stuff\projects\simple game engine\simple game engine\engine.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Update.cpp
+d:\program files (x86)\microsoft visual studio stuff\projects\simple game engine\simple game engine\engine.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Simple Game Engine.vcxproj -> D:\Program Files (x86)\Microsoft Visual Studio Stuff\Projects\Simple Game Engine\Debug\Simple Game Engine.exe
